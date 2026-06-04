@@ -626,7 +626,7 @@
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 63,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -906,7 +906,7 @@
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 91,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1026,7 +1026,7 @@
     "game": "Tales of the Abyss",
     "character": "Luke fon Fabre",
     "id": 103,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
